@@ -1,0 +1,39 @@
+id: PA8F28910
+initial_creation_type: input
+source_metadata:
+  title: Le'u Dünma
+  language: bo
+  description: 'Le''u Dünma (le’u bdun ma), The Prayer in Seven Chapters to Padmākara,
+    the Second Buddha, is a terma revealed in the fourteenth century by Tulku Zangpo
+    Drakpa:'
+  volume:
+    313e3dfe02c0470f8bbeeca16171f9f0:
+      title: The General Visualization for Prayers to Guru Rinpoche
+      parent: The General Visualization for Prayers to Guru Rinpoche
+    e451a28d0119401f822b3a31423d2d48:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      parent: Le'u Dünma
+    a087f07afed04f19a6206860c30c1f9c:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      parent: Le'u Dünma
+    0a31192329754a9ca12526db568c4697:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      parent: Le'u Dünma
+    ce354a32bfd54ad68da5277c43b70c5a:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      parent: Le'u Dünma
+    0d6dd86600f6450c9713cf9036982880:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      parent: Le'u Dünma
+    7a2e6eef15164a8c82d9aa4342a17b45:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      parent: Le'u Dünma
+    bb6757fca5614e3ba985c8a261d639df:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      parent: Le'u Dünma
+    3bba7fde45884ce092fd894c971a569a:
+      title: The Abbreviated Prayer in Seven Chapters
+      parent: Abbreviated Version
+created_at: '2022-03-01T04:09:30.976073'
+last_modified_at: '2022-03-01T04:09:30.976076'
